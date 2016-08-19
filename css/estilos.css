@@ -1,0 +1,18 @@
+.caja {
+	padding: 20px;
+	border:20px purple solid;
+	width: 350px;
+	background-color: orange;
+	border-left: 10px purple solid;
+	border-right: 10px purple solid;
+
+	
+}	
+div p{
+	border:1px dashed black;
+	background-color: white;
+	text-align: center;
+	align-content: auto;
+	margin: 20px 7px 30px 130px;
+	width: 200px;
+	}
